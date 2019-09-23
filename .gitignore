@@ -1,0 +1,6 @@
+.idea
+venv
+models
+**/dump_bad.csv
+dump_good.csv
+**/dns_model.pkl
