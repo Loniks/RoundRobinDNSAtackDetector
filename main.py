@@ -1,0 +1,5 @@
+from round_robin_dns_atack_detector.csv_converter import make_initial_data_set 
+from round_robin_dns_atack_detector.ml_builder import build_model 
+
+make_initial_data_set()
+build_model()
